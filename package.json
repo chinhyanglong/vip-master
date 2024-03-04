@@ -1,5 +1,5 @@
 {
-  "name": "vip",
+  "name": "vip-joshua0101",
   "version": "0.1.4",
   "description": "very important process - use etcd to avoid a split brain across a cluster",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/binocarlos/vip.git"
+    "url": "https://github.com/chinhyanglong/vip-master.git"
   },
   "keywords": [
     "etcd",
@@ -20,9 +20,9 @@
   "author": "Kai Davenport",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/binocarlos/vip/issues"
+    "url": "https://github.com/chinhyanglong/vip-master/vip/issues"
   },
-  "homepage": "https://github.com/binocarlos/vip",
+  "homepage": "https://github.com/chinhyanglong/vip-master",
   "devDependencies": {
     "tape": "^2.13.1",
     "async": "^0.9.0",
